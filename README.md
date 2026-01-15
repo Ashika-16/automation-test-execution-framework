@@ -1,9 +1,5 @@
 # Automation Test Execution Framework 
 
-## Agile Internship Documentation
-My Agile Methodology Document
-(Agile_Document_Infosys_Springboard.docx)
-
 ##  Overview
 The **Automation Test Execution Framework** is a Spring Boot–based backend application designed to manage, execute, and monitor automated test jobs in a structured and scalable way.
 
