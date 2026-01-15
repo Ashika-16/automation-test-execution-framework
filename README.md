@@ -1,6 +1,6 @@
-# Automation Test Execution Framework 🚀
+# Automation Test Execution Framework 
 
-## 📌 Overview
+##  Overview
 The **Automation Test Execution Framework** is a Spring Boot–based backend application designed to manage, execute, and monitor automated test jobs in a structured and scalable way.
 
 This project was developed as part of the **Infosys Springboard Internship Program** to demonstrate real-world backend development concepts such as REST APIs, layered architecture, database integration, and clean code practices.
@@ -9,7 +9,7 @@ The framework acts as a central engine where automation test executions can be t
 
 ---
 
-## 🎯 Objectives of the Project
+## Objectives of the Project
 - Build a clean and modular **test execution backend**
 - Expose REST APIs to verify application health and execution readiness
 - Use **Spring Boot best practices**
@@ -18,7 +18,7 @@ The framework acts as a central engine where automation test executions can be t
 
 ---
 
-## 🛠️ Tech Stack Used
+## Tech Stack Used
 - **Java 17**
 - **Spring Boot 3.5.9**
 - **Spring Web (REST APIs)**
@@ -29,41 +29,7 @@ The framework acts as a central engine where automation test executions can be t
 - **Git & GitHub**
 
 ---
-
-## 📂 Project Structure
-# Automation Test Execution Framework 🚀
-
-## 📌 Overview
-The **Automation Test Execution Framework** is a Spring Boot–based backend application designed to manage, execute, and monitor automated test jobs in a structured and scalable way.
-
-This project was developed as part of the **Infosys Springboard Internship Program** to demonstrate real-world backend development concepts such as REST APIs, layered architecture, database integration, and clean code practices.
-
-The framework acts as a central engine where automation test executions can be triggered, tracked, and extended in the future with advanced orchestration features.
-
----
-
-## 🎯 Objectives of the Project
-- Build a clean and modular **test execution backend**
-- Expose REST APIs to verify application health and execution readiness
-- Use **Spring Boot best practices**
-- Demonstrate database connectivity using **Spring Data JPA**
-- Maintain a **professional GitHub repository** with documentation and license
-
----
-
-## 🛠️ Tech Stack Used
-- **Java 17**
-- **Spring Boot 3.5.9**
-- **Spring Web (REST APIs)**
-- **Spring Data JPA**
-- **H2 In-Memory Database**
-- **Maven**
-- **Apache Tomcat (Embedded)**
-- **Git & GitHub**
-
----
-
-## 📂 Project Structure
+## Project Structure
 automation-test-framework
 │
 ├── src
@@ -90,9 +56,9 @@ automation-test-framework
 
 ---
 
-## 🔍 Key Features Implemented
+## Key Features Implemented
 
-### ✅ Health Check API
+### Health Check API
 A REST endpoint to verify that the application is running successfully.
 
 **Endpoint**
@@ -100,7 +66,7 @@ A REST endpoint to verify that the application is running successfully.
 GET /health
 
 **Response**
-Automation Test Framework is running successfully 🚀
+Automation Test Framework is running successfully 
 
 
 This confirms:
@@ -110,7 +76,7 @@ This confirms:
 
 ---
 
-## ▶️ How to Run the Project Locally
+## How to Run the Project Locally
 
 ### Prerequisites
 - Java 17 installed
@@ -129,7 +95,7 @@ http://localhost:8080/health
 
 ---
 
-🧪 Database Configuration
+ Database Configuration
 
 Uses H2 In-Memory Database
 
@@ -172,7 +138,7 @@ Reference projects were studied for understanding, but the implementation and st
 
 ---
 
-## 🎓 Internship Context
+##  Internship Context
 
 This project was developed as part of the **Infosys Springboard Internship Program**.
 
@@ -182,8 +148,3 @@ It demonstrates:
 - Maven project structure
 - H2 database integration
 - Clean code and documentation practices
-
-This repository fulfills the internship requirement of:
-- Clean functional codebase
-- Proper documentation
-- MIT License inclusion
