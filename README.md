@@ -114,20 +114,18 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ---
 
-📅 Agile Execution Notes
+## Agile Documentation
 
-Project setup using Spring Initializr
+This project includes a detailed Agile learning document created as part of the **Infosys Springboard Internship**.
 
-REST API implementation
+📌 The document covers:
+- Week-wise learning and sprint activities
+- Tools and technologies explored
+- Hands-on implementation experience
+- Professional and technical skill development
 
-Database configuration and validation
-
-Local testing and debugging
-
-GitHub version control with clean commits
-
-Documentation and license addition
-
+👉 **Click here to view/download the Agile Document:**  
+[Agile Document – Infosys Springboard Internship](Agile_Document_Infosys_Springboard_Internship.docx)
 
 ---
 
